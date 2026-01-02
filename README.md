@@ -1,4 +1,4 @@
-# 🔋 Prévision de la Consommation Électrique – EcoVolt Smart Grid
+#  Prévision de la Consommation Électrique – EcoVolt Smart Grid
 
 ## Présentation du projet
 
